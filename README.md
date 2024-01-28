@@ -54,7 +54,7 @@ Table of Contents
         - 1: Select extended immediate value
         - 0: Select data from the register file
           
-		 - **alui/[1:0]**: Control signal for Immediate Value Operation Circuit(imme)
+		 - **alui\[1:0]**: Control signal for Immediate Value Operation Circuit(imme)
         - 00: Select immediate value for addi, xori, ori, andi, lw instructions
         - 01: Select shamt for slli, srli, srai instructions
         - 10: Select immediate value for sw instructions
