@@ -111,7 +111,7 @@ The **Pipelined CPU** divides instruction execution into five stages, increasing
   5. **Write Back (WB)**
 
 **Diagram**  
-![](pipeline.png)
+![](pipeline/pipeline.png)
 
 ---
 
