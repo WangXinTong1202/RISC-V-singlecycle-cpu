@@ -50,7 +50,7 @@ The **Single-Cycle CPU** executes each instruction in a single clock cycle, offe
   - **Data Path:** Connects instruction memory, data memory, and the register file.
   
 **Diagram**  
-![](singlecycle.png)
+![](singlecycle/singlecycle.png)
 
 ---
 
